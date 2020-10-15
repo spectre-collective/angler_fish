@@ -15,5 +15,5 @@
 
    -> jupyter notebook
 
- -> navigate to bertFish, click run, then pip3 install all of the missing 
+ -> navigate to bertFish, click run, then pip3 install all of the missing packages
     until it works. will have set_.py file soon. 
